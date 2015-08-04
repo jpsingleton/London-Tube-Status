@@ -21,7 +21,7 @@
 <meta property="og:title" content="Tube Status">
 <meta property="og:type" content="website">
 <meta property="og:description" content="Pragmatic Tube Status">
-<meta property="og:image" content="https://unop.uk/tube/icons/android-icon-192x192.png">
+<meta property="og:image" content="https://raw.githubusercontent.com/jpsingleton/London-Tube-Status/master/icons/android-icon-192x192.png">
 <meta property="og:url" content="https://unop.uk/tube">
 <link rel="apple-touch-icon" sizes="57x57" href="icons/apple-icon-57x57.png">
 <link rel="apple-touch-icon" sizes="60x60" href="icons/apple-icon-60x60.png">
@@ -37,6 +37,7 @@
 <link rel="icon" type="image/png" sizes="96x96" href="icons/favicon-96x96.png">
 <link rel="icon" type="image/png" sizes="16x16" href="icons/favicon-16x16.png">
 <link rel="manifest" href="manifest.json">
+<link rel="image_src" href="https://raw.githubusercontent.com/jpsingleton/London-Tube-Status/master/icons/android-icon-192x192.png">
 <meta name="msapplication-TileColor" content="#894E24">
 <meta name="msapplication-TileImage" content="ms-icon-144x144.png">
 <meta name="theme-color" content="#894E24">
