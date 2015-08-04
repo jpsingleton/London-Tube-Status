@@ -42,7 +42,7 @@
 <meta name="msapplication-TileImage" content="ms-icon-144x144.png">
 <meta name="theme-color" content="#894E24">
 <style type="text/css">
-body {color: #FFF; background: #333; font-family: New Johnson, Arial, Helvetica;}
+body {color: #FFF; background: #333; font-family: New Johnson, Arial, Helvetica; text-align: center;}
 a {color: #FFF;}
 table {border-collapse:collapse; width:100%;}
 table, th, td {border: 2px solid white;}
