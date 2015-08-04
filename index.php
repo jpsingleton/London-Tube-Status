@@ -82,6 +82,9 @@ th {color: #EEE; background: #111;}
 	// Write date to page
 	date_default_timezone_set('Europe/London');
 	echo date('l jS \of F Y h:i:s A');
-?> 
+?>
+
+<p><a href="https://isthetubeonstrike.com">IsTheTubeOnStrike.com</a></p>
+<p><a href="https://unop.uk">unop blog</a></p>
 </body>
 </html>
