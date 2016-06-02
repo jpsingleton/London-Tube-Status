@@ -61,6 +61,7 @@ th {color: #EEE; background: #111;}
 .l82 {color: #000; background: #E86A10;}
 .l83 {color: #FFF; background: #0019A8;}
 .l81 {color: #000; background: #00AFAD;}
+.l90 {color: #FFF; background: #6C0;}
 </style>
 </head>
 <body>
